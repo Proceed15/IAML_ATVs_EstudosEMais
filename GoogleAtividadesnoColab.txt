@@ -1,1 +1,1 @@
-Google Atividades no Colab em Python
+Google Atividades no Colab em Python, todos os exemplos foram criados nesses intuitos
